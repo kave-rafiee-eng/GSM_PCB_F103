@@ -1,0 +1,82 @@
+Removed Pin From Net: NetName=ESP_EN_5 Pin=IC3-11
+Removed Pin From Net: NetName=ESP-RX Pin=IC3-12
+Removed Pin From Net: NetName=ESP_TX Pin=IC3-13
+Removed Pin From Net: NetName=CLK_5 Pin=IC3-15
+Removed Pin From Net: NetName=MISO_5 Pin=IC3-16
+Removed Pin From Net: NetName=MOSI_5 Pin=IC3-17
+Removed Pin From Net: NetName=CS_5 Pin=IC3-18
+Removed Pin From Net: NetName=TX_TO_GSM_1 Pin=IC3-21
+Removed Pin From Net: NetName=RX_TO_GSM_1 Pin=IC3-22
+Removed Pin From Net: NetName=TX Pin=IC3-30
+Removed Pin From Net: NetName=RX Pin=IC3-31
+Removed Pin From Net: NetName=RS_EN Pin=IC3-32
+Removed Pin From Net: NetName=CAN1_RX Pin=IC3-45
+Removed Pin From Net: NetName=CAN1_TX Pin=IC3-46
+Removed Member From Class: ClassName=U_mcu Member=IC3
+Change Component Comment : Designator=IC2 Old Comment=STM32F103C8T6-POWER New Comment=STM32F103C8T6
+Added Pin To Net: NetName=ESP_EN_5 Pin=IC2-11
+Added Pin To Net: NetName=ESP-RX Pin=IC2-12
+Added Pin To Net: NetName=ESP_TX Pin=IC2-13
+Added Pin To Net: NetName=CLK_5 Pin=IC2-15
+Added Pin To Net: NetName=MISO_5 Pin=IC2-16
+Added Pin To Net: NetName=MOSI_5 Pin=IC2-17
+Added Pin To Net: NetName=CS_5 Pin=IC2-18
+Added Pin To Net: NetName=TX_TO_GSM_1 Pin=IC2-21
+Added Pin To Net: NetName=RX_TO_GSM_1 Pin=IC2-22
+Added Pin To Net: NetName=TX Pin=IC2-30
+Added Pin To Net: NetName=RX Pin=IC2-31
+Added Pin To Net: NetName=RS_EN Pin=IC2-32
+Added Pin To Net: NetName=CAN1_RX Pin=IC2-45
+Added Pin To Net: NetName=CAN1_TX Pin=IC2-46
+Added Pin To Net: NetName=NetIC2_2 Pin=IC2-2
+Added Net: Name=NetIC2_2
+Added Pin To Net: NetName=NetIC2_3 Pin=IC2-3
+Added Pin To Net: NetName=NetIC2_3 Pin=R16-2
+Added Pin To Net: NetName=NetIC2_3 Pin=SW1-1
+Added Pin To Net: NetName=NetIC2_3 Pin=SW1-1
+Added Net: Name=NetIC2_3
+Added Pin To Net: NetName=NetIC2_4 Pin=IC2-4
+Added Pin To Net: NetName=NetIC2_4 Pin=R15-2
+Added Pin To Net: NetName=NetIC2_4 Pin=SW2-1
+Added Pin To Net: NetName=NetIC2_4 Pin=SW2-1
+Added Net: Name=NetIC2_4
+Added Pin To Net: NetName=NetIC2_5 Pin=IC2-5
+Added Net: Name=NetIC2_5
+Added Pin To Net: NetName=NetIC2_6 Pin=IC2-6
+Added Net: Name=NetIC2_6
+Added Pin To Net: NetName=NetIC2_10 Pin=IC2-10
+Added Net: Name=NetIC2_10
+Added Pin To Net: NetName=NetIC2_14 Pin=IC2-14
+Added Net: Name=NetIC2_14
+Added Pin To Net: NetName=NetIC2_19 Pin=IC2-19
+Added Net: Name=NetIC2_19
+Added Pin To Net: NetName=NetIC2_20 Pin=IC2-20
+Added Net: Name=NetIC2_20
+Added Pin To Net: NetName=NetIC2_25 Pin=IC2-25
+Added Net: Name=NetIC2_25
+Added Pin To Net: NetName=NetIC2_26 Pin=IC2-26
+Added Net: Name=NetIC2_26
+Added Pin To Net: NetName=NetIC2_27 Pin=IC2-27
+Added Net: Name=NetIC2_27
+Added Pin To Net: NetName=NetIC2_28 Pin=IC2-28
+Added Net: Name=NetIC2_28
+Added Pin To Net: NetName=NetIC2_29 Pin=IC2-29
+Added Net: Name=NetIC2_29
+Added Pin To Net: NetName=NetIC2_33 Pin=IC2-33
+Added Net: Name=NetIC2_33
+Added Pin To Net: NetName=NetIC2_38 Pin=IC2-38
+Added Net: Name=NetIC2_38
+Added Pin To Net: NetName=NetIC2_39 Pin=IC2-39
+Added Pin To Net: NetName=NetIC2_39 Pin=RES-A
+Added Net: Name=NetIC2_39
+Added Pin To Net: NetName=NetIC2_40 Pin=IC2-40
+Added Pin To Net: NetName=NetIC2_40 Pin=RS-A
+Added Net: Name=NetIC2_40
+Added Pin To Net: NetName=NetIC2_41 Pin=IC2-41
+Added Pin To Net: NetName=NetIC2_41 Pin=SIM-A
+Added Net: Name=NetIC2_41
+Added Pin To Net: NetName=NetIC2_42 Pin=IC2-42
+Added Pin To Net: NetName=NetIC2_42 Pin=WIFI-A
+Added Net: Name=NetIC2_42
+Added Pin To Net: NetName=NetIC2_43 Pin=IC2-43
+Added Net: Name=NetIC2_43

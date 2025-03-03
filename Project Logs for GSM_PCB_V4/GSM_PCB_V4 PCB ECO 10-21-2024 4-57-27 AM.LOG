@@ -1,0 +1,36 @@
+Removed Pin From Net: NetName=ESP-RX Pin=IC2-12
+Removed Pin From Net: NetName=ESP_TX Pin=IC2-13
+Removed Pin From Net: NetName=TX_TO_GSM_1 Pin=IC2-21
+Removed Pin From Net: NetName=RX_TO_GSM_1 Pin=IC2-22
+Removed Pin From Net: NetName=NetIC2_4 Pin=R15-2
+Removed Pin From Net: NetName=NetIC2_3 Pin=R16-2
+Removed Pin From Net: NetName=NetIC2_39 Pin=RES-A
+Removed Pin From Net: NetName=NetIC2_40 Pin=RS-A
+Removed Pin From Net: NetName=NetIC2_41 Pin=SIM-A
+Removed Pin From Net: NetName=NetIC2_3 Pin=SW1-1
+Removed Pin From Net: NetName=NetIC2_3 Pin=SW1-1
+Removed Pin From Net: NetName=NetIC2_4 Pin=SW2-1
+Removed Pin From Net: NetName=NetIC2_4 Pin=SW2-1
+Removed Pin From Net: NetName=NetIC2_42 Pin=WIFI-A
+Added Pin To Net: NetName=PWR_1 Pin=IC2-10
+Added Pin To Net: NetName=GSM_EN_1 Pin=IC2-11
+Added Pin To Net: NetName=TX_TO_GSM_1 Pin=IC2-12
+Added Pin To Net: NetName=RX_TO_GSM_1 Pin=IC2-13
+Added Pin To Net: NetName=ESP-RX Pin=IC2-21
+Added Pin To Net: NetName=ESP_TX Pin=IC2-22
+Added Pin To Net: NetName=ESP_ON Pin=IC2-28
+Added Pin To Net: NetName=RS_EN Pin=IC2-29
+Added Pin To Net: NetName=NetIC2_2 Pin=RES-A
+Added Pin To Net: NetName=NetIC2_3 Pin=RS-A
+Added Pin To Net: NetName=NetIC2_4 Pin=SIM-A
+Added Pin To Net: NetName=NetIC2_5 Pin=WIFI-A
+Added Pin To Net: NetName=SW1_5 Pin=IC2-14
+Added Pin To Net: NetName=SW1_5 Pin=R16-2
+Added Pin To Net: NetName=SW1_5 Pin=SW1-1
+Added Pin To Net: NetName=SW1_5 Pin=SW1-1
+Added Net: Name=SW1_5
+Added Pin To Net: NetName=SW2_5 Pin=IC2-20
+Added Pin To Net: NetName=SW2_5 Pin=R15-2
+Added Pin To Net: NetName=SW2_5 Pin=SW2-1
+Added Pin To Net: NetName=SW2_5 Pin=SW2-1
+Added Net: Name=SW2_5
